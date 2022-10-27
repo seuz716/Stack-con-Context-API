@@ -1,0 +1,32 @@
+{
+  "name": "stack-con-context-api",
+  "version": "1.0.0",
+  "description": "Este es un ejemplo práctico de una aplicación web FullStack usando Mongodb, Express, React y Node (tambien nconocido como el stack MERN), Tambien usaremos la api de React llamada Context API para manejar el estado  de manera global en nuestra aplicación, ademas de modulos como formik, axios, tailwindcss, y más",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seuz716/Stack-con-Context-API.git"
+  },
+  "author": "cesar andres abadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seuz716/Stack-con-Context-API/issues"
+  },
+  "homepage": "https://github.com/seuz716/Stack-con-Context-API#readme",
+  "dependencies": {
+    "cloudinary": "^1.32.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "fs-extra": "^10.1.0",
+    "http-errors": "^2.0.0",
+    "mongoose": "^6.7.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
