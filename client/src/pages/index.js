@@ -1,4 +1,4 @@
-export {HomePage} from "./HomePage";
-export {PostForm} from "./PostForm";
-export {NotFoundPage} from "./NotFoundPage";
+export {HomePage} from "./HomePage.js";
+export {PostForm} from "./PostForm.js";
+export {NotFoundPage} from "./NotFoundPage.js";
 
